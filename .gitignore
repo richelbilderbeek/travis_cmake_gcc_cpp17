@@ -34,3 +34,4 @@ cmake_install.cmake
 Makefile
 CMakeFiles/
 CMakeCache.txt
+travis_cmake_gcc_cpp17
